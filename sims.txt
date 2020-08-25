@@ -1,0 +1,24 @@
+
+Default (0.3 ang_res):
+sim_0 = Town03, Under bridge, police cars (Scene 1)
+sim_1 = Town03, Empty road (Scene 3)
+sim_2 = Town03, Houses (Scene 4)
+sim_3 = Town03, Tunnel (Scene 5)
+sim_4 = Town04, Mountain road (Scene 2)
+sim_5 = Town07, Forest road (Scene 6)
+
+High res (0.1 ang_res):
+sim_6 = Town03, Under bridge, police cars
+sim_10 = Town04, Mountain road
+
+Low res (0.5 ang_res):
+sim_7 = Town03, Under bridge, police cars
+sim_11 = Town04, Mountain road
+
+2 front lidars:
+sim_8 = Town03, Under bridge, police cars
+sim_12 = Town04, Mountain road
+
+6 Lidars:
+sim_9 = Town03, Under bridge, police cars
+sim_13 = Town04, Mountain road
