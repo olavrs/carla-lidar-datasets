@@ -1,7 +1,7 @@
 # carla-lidar-datasets
 This repo contains noiseless point clouds collected using CARLA and a custom solid-state lidar sensor model.
 
-To view the point cloud run the ``view_pclouds.py`` script.
+To view the point cloud run the ``view_pclouds.py`` script. The script requires Python 3.6, with the packages ``numpy`` and ``pptk``.
 
 The noise model introduced in the paper is also included in the script.
 
