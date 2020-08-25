@@ -3,7 +3,7 @@ This repo contains noiseless point clouds collected using CARLA and a custom sol
 
 To view the point cloud run the ``view_pclouds.py`` script.
 
-You can add noise to the point clouds by....
+The noise model introduced in the paper is also included in the script.
 
 All datasets are collected using lidars with 200 meter range. The individual datasets are described in more detail in the table below.
 
