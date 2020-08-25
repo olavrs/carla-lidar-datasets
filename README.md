@@ -5,7 +5,7 @@ To view the point cloud run the ``view_pclouds.py`` script. The script requires 
 
 The noise model introduced in the paper is also included in the script.
 
-All datasets are collected using lidars with 200 meter range. The individual datasets are described in more detail in the table below.
+All datasets are collected using lidars with 200 meter range and a FOV of 270°. The individual datasets are described in more detail in the table below.
 
 | Sim | Environment | Number of lidars | Angular resolutions | Number of points |
 |-----|-------------|:----------------:|:-------------------:|:----------------:|
